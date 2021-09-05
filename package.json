@@ -5,6 +5,7 @@
     "build": "gridsome build",
     "develop": "gridsome develop",
     "explore": "gridsome explore",
+    "deploy":"bash ./scripts/deploy.sh",
     "test": "./node_modules/.bin/cypress open"
   },
   "dependencies": {
