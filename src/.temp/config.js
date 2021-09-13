@@ -1,8 +1,8 @@
 export default {
   "trailingSlash": true,
   "pathPrefix": "",
-  "titleTemplate": "%s - Gridsome Portfolio Starter",
-  "siteUrl": "https://gridsome-portfolio-starter.netlify.com",
+  "titleTemplate": "%s - Qualism Technologies",
+  "siteUrl": "https://www.qualism.io",
   "version": "0.7.23",
   "catchLinks": true
 }

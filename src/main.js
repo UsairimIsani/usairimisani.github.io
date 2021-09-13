@@ -18,12 +18,12 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: 'keywords',
-    content: 'Zing Technologies,Zing Blockchain Technologies,Rust,NEAR,Solana,NFT,Fungible Token,Token,Crypto Coin,ink!,Smart Contract,Defi,Dex,Liquidity Pool,Development'
+    content: 'Qualism Technologies,Qualism Blockchain Technologies,Rust,NEAR,Solana,NFT,Fungible Token,Token,Crypto Coin,ink!,Smart Contract,Defi,Dex,Liquidity Pool,Development'
   })
 
   head.meta.push({
     name: 'description',
-    content: 'Zing Blockchain Technologies, Blockchain Development, Smart Contract Development,Rust'
+    content: 'Qualism Blockchain Technologies, Blockchain Development, Smart Contract Development,Rust'
   })
 
   head.meta.push({
